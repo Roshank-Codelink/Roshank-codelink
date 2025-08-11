@@ -1,62 +1,61 @@
-# Hi 👋, I'm Roshan.K  
-**A passionate Full Stack Developer.**  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
+<h3 align="center">Full Stack Developer | Passionate about building scalable web applications</h3>
 
-💻 Building modern web apps with **JavaScript, TypeScript, React, Node.js, Firebase**  
-🌱 Currently exploring **Next.js & Cloud Deployments**  
-🚀 Open-source contributor & tech enthusiast  
-
----
-
-## 📈 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Roshank-Codelink&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-## 🏆 GitHub Badges  
-![Repos Badge](https://img.shields.io/badge/Repositories-10-blue?style=flat)
-![Commits Badge](https://img.shields.io/badge/Commits-500-brightgreen?style=flat)
-![Followers Badge](https://img.shields.io/badge/Followers-100-orange?style=flat)
-![Stars Badge](https://img.shields.io/badge/Stars-50-yellow?style=flat)
-![Pull Requests](https://img.shields.io/badge/PRs-30-purple?style=flat)
-![Issues](https://img.shields.io/badge/Issues-20-red?style=flat)
-
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roshan-kumar-59745a209/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://roshanportfoli.netlify.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roshank-Codelink)
-
----
-
-## 🔧 Languages & Tools  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
+<!-- Badges -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshank-Codelink&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Roshank-Codelink&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=firefox" /></a>
 </p>
 
 ---
 
-## 📌 Featured Projects  
-- 🚀 [Project One](https://github.com/Roshank-Codelink/PROJECT-ONE) – Description of what it does.  
-- 🌐 [Project Two](https://github.com/Roshank-Codelink/PROJECT-TWO) – Description of what it does.  
-- 📱 [Project Three](https://github.com/Roshank-Codelink/PROJECT-THREE) – Description of what it does.  
+### 🚀 About Me
+- 🔭 I’m currently working on **Project Management Applications**
+- 🌱 I’m learning **Next.js, TypeScript, and Cloud Deployment**
+- 💬 Ask me about **MERN Stack, REST APIs, and Responsive UI Design**
+- 📫 Reach me at **youremail@example.com**
+- ⚡ Fun fact: *I love turning coffee ☕ into code*
 
 ---
 
-*✨ Inspired by the love for coding and coffee ☕*
+### 🛠 Tech Stack
+#### **Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb" />
+</p>
+
+#### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,vercel" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🏆 Top Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Project Management App** | Role-based project management system | Next.js, TypeScript, MongoDB |
+| **AI Chat UI** | Real-time chat interface with file support | React, TailwindCSS |
+| **Authentication System** | Role-based auth with OTP and JWT | Node.js, Express, MongoDB |
+
+---
+
+### 🌐 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
+  <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=devto" height="30" /></a>
+</p>
+
+---
+⭐ **From [Roshan Kumar](https://github.com/yourusername)**
