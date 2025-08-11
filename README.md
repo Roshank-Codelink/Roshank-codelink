@@ -1,14 +1,14 @@
-# Hi 👋, I'm Diwakar Sharma  
-**A passionate Full Stack Developer from India**  
+# Hi 👋, I'm Roshan.K  
+**A passionate Full Stack Developer.**  
 
-💻 Building modern web apps with **JavaScript, TypeScript, React, Node.js**  
+💻 Building modern web apps with **JavaScript, TypeScript, React, Node.js,Firebase**  
 🌱 Currently exploring **Next.js & Cloud Deployments**  
 🚀 Open-source contributor & tech enthusiast  
 
 ---
 
 ## 📈 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Diwakarsharma2216&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://github.com/Roshank-Codelink)
 
 ---
 
@@ -23,9 +23,9 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR-PORTFOLIO-URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diwakarsharma2216)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/roshan-kumar-59745a209/))
+[![Portfolio]([https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR-PORTFOLIO-URL](https://roshanportfoli.netlify.app/))
+[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diwakarsharma2216](https://github.com/Roshank-Codelink))
 
 ---
 
