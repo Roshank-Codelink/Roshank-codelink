@@ -1,14 +1,14 @@
 # Hi 👋, I'm Roshan.K  
 **A passionate Full Stack Developer.**  
 
-💻 Building modern web apps with **JavaScript, TypeScript, React, Node.js,Firebase**  
+💻 Building modern web apps with **JavaScript, TypeScript, React, Node.js, Firebase**  
 🌱 Currently exploring **Next.js & Cloud Deployments**  
 🚀 Open-source contributor & tech enthusiast  
 
 ---
 
 ## 📈 Profile Views  
-![Profile Views](https://github.com/Roshank-Codelink)
+![Profile Views](https://komarev.com/ghpvc/?username=Roshank-Codelink&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -23,9 +23,9 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/roshan-kumar-59745a209/))
-[![Portfolio]([https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR-PORTFOLIO-URL](https://roshanportfoli.netlify.app/))
-[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diwakarsharma2216](https://github.com/Roshank-Codelink))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roshan-kumar-59745a209/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://roshanportfoli.netlify.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roshank-Codelink)
 
 ---
 
@@ -38,6 +38,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -45,23 +46,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diwakarsharma2216&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Diwakarsharma2216&theme=tokyonight" alt="GitHub Streak" height="160" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diwakarsharma2216&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshank-Codelink&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Roshank-Codelink&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 
 ---
 
 ## 📌 Featured Projects  
-- 🚀 [Project One](https://github.com/YOURUSERNAME/PROJECT-ONE) – Description of what it does.
-- 🌐 [Project Two](https://github.com/YOURUSERNAME/PROJECT-TWO) – Description of what it does.
-- 📱 [Project Three](https://github.com/YOURUSERNAME/PROJECT-THREE) – Description of what it does.
+- 🚀 [Project One](https://github.com/Roshank-Codelink/PROJECT-ONE) – Description of what it does.  
+- 🌐 [Project Two](https://github.com/Roshank-Codelink/PROJECT-TWO) – Description of what it does.  
+- 📱 [Project Three](https://github.com/Roshank-Codelink/PROJECT-THREE) – Description of what it does.  
 
 ---
 
