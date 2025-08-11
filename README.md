@@ -22,7 +22,7 @@
 ### 🛠 Tech Stack
 #### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase" />
 </p>
 
 #### **Tools & Platforms**
@@ -32,11 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150" />
-</p>
+
 
 ### 🌐 Connect With Me
 <p>
